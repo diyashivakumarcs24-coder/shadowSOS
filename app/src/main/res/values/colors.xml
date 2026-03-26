@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_primary">#0D0D0D</color>
+    <color name="bg_card">#1A1A1A</color>
+    <color name="bg_card_elevated">#222222</color>
+    <color name="accent_red">#FF2D55</color>
+    <color name="accent_orange">#FF6B35</color>
+    <color name="accent_yellow">#FFD60A</color>
+    <color name="accent_green">#30D158</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#8E8E93</color>
+    <color name="text_tertiary">#48484A</color>
+    <color name="divider">#2C2C2E</color>
+    <color name="sos_glow">#80FF2D55</color>
+    <color name="calc_bg">#1C1C1E</color>
+    <color name="calc_btn_number">#2C2C2E</color>
+    <color name="calc_btn_operator">#FF9F0A</color>
+    <color name="calc_btn_action">#636366</color>
+    <color name="transparent">#00000000</color>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="app_real_name">ShadowSOS</string>
+    <string name="sos_triggered">SOS Triggered</string>
+    <string name="recording_started">Recording Started</string>
+    <string name="recording_stopped">Recording Stopped</string>
+    <string name="location_fetched">Location Fetched</string>
+    <string name="fake_call_incoming">Incoming Call</string>
+    <string name="safety_safe">You are Safe</string>
+    <string name="safety_caution">Stay Alert</string>
+    <string name="safety_danger">High Risk Area</string>
+    <string name="offline_mode">Offline Mode Active</string>
+</resources>
